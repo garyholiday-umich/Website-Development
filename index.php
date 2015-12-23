@@ -157,10 +157,10 @@
             <p>A few of my recordings</p>
             <div class="row">
                 <div class="col-md-6"> 
-                    <iframe width="420" height="315" src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1"></iframe>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/kMbv3bKxqgs" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-6"> 
-                    <iframe width="420" height="315" src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1"></iframe>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/kMbv3bKxqgs" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
             
