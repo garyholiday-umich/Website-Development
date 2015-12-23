@@ -121,3 +121,7 @@
 .fs-background-embed.fs-background-ready iframe {
   z-index: 0;
 }
+@media (min-width: 992px)
+.col-md-3 {
+    width: 33% !important;
+}
