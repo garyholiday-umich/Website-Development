@@ -37,9 +37,9 @@
     <!-- <link href="assets/css/vitality-green.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="assets/css/vitality-orange.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="assets/css/vitality-pink.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-purple.css" rel="stylesheet" type="text/css"> -->
+    <link href="assets/css/vitality-purple.css" rel="stylesheet" type="text/css">
     <!-- <link href="assets/css/vitality-tan.css" rel="stylesheet" type="text/css"> -->
-    <link href="assets/css/vitality-turquoise.css" rel="stylesheet" type="text/css">
+    <!--link href="assets/css/vitality-turquoise.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="assets/css/vitality-yellow.css" rel="stylesheet" type="text/css"> -->
     <!-- IE8 support for HTML5 elements and media queries -->
     <!--[if lt IE 9]>
