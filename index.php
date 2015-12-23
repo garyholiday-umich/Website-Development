@@ -112,6 +112,7 @@
                     <hr class="colored">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet dolor vitae nibh ultricies, eu ullamcorper mi porttitor. Praesent vel sem lorem. Cras vitae arcu ac mi imperdiet tempus non sit amet metus.</p>
                     <p>Duis egestas eros erat, id venenatis erat porta sit amet.</p>
+                    <br>
                     <button onclick="location.href='http://www.facebook.com'" class="btn btn-outline-dark">My Resume</button>
                 </div>
             </div>
@@ -184,7 +185,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>Contact Me</h2>
                     <hr class="colored">
-                    <p>I'd love to hear about your next project! Send me a message and I will see if I can help.</p>
+                    <p>Pellentesque non tincidunt tortor. Vivamus ut nulla in mi euismod mattis nec ac lorem.</p>
                 </div>
             </div>
             <div class="row content-row">
@@ -235,34 +236,29 @@
             <div class="row">
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-phone"></i> Call</h4>
-                    <p>555-213-4567</p>
+                    <p>555-555-5555</p>
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-map-marker"></i> Visit</h4>
-                    <p>3481 Melrose Place
-                        <br>Beverly Hills, CA 90210</p>
+                    <p>Saginaw, MI 48061</p>
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:mail@example.com">mail@example.com</a>
+                    <p><a href="mailto:mail@example.com">RachelleAustin01@gmail.com</a>
                     </p>
                 </div>
             </div>
             <div class="row social">
                 <div class="col-lg-12">
                     <ul class="list-inline">
-                        <li><a href="#"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+                        <li><a href="https://www.facebook.com/rachelleaustinsoprano/?fref=ts"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="row copyright">
                 <div class="col-lg-12">
-                    <p class="small">&copy; 2015 Start Bootstrap Themes</p>
+                    <p class="small">&copy; 2015 Rachelle Austin</p>
                 </div>
             </div>
         </div>
