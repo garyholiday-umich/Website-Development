@@ -63,7 +63,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="assets/img/creative/logo.png" class="img-responsive" alt="">
+                    <img src="assets/img/creative/music_logo.png" class="img-responsive" alt="">
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
