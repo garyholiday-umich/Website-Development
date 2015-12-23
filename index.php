@@ -108,7 +108,7 @@
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="assets/img/creative/about.jpg" class="img-responsive" alt="">
+                    <img src="assets/img/creative/about.png" class="img-responsive" alt="">
                 </div>
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm John Smith</h1>
