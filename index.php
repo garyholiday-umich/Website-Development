@@ -156,9 +156,9 @@
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
-                    <span class="quote">Good <span class="text-primary">design</span> is finding that perfect balance between the way something <span class="text-primary">looks</span> and how it <span class="text-primary">functions</span>.</span>
+                    <span class="quote">Interested in learning to <span class="text-primary">sing</span> or need a <span class="text-primary">performer</span> for an event? Send me a message to discuss further.</span>
                     <hr class=" colored">
-                    <a class="btn btn-outline-light page-scroll" href="#contact">Let's Find It</a>
+                    <a class="btn btn-outline-light page-scroll" href="#contact">Get in touch</a>
                 </div>
             </div>
         </div>
