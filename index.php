@@ -95,7 +95,7 @@
     </nav>
     <header style="background-image: url('assets/img/creative/bg-header.jpg');">
         <div class="intro-content">
-            <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt="">
+            <img src="assets/img/creative/music_profile.png" class="img-responsive img-centered" alt="">
             <div class="brand-name">John Smith</div>
             <hr class="colored">
             <div class="brand-name-subtext">An Online Portfolio For Creatives</div>
