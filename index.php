@@ -90,7 +90,7 @@
         </div>
         <!-- /.container -->
     </nav>
-    <header style="background-image: url('assets/img/creative/bg-header.jpg');">
+    <header style="background-image: url('assets/img/notes.jpg');">
         <div class="intro-content">
             <img src="assets/img/creative/music_profile3.png" class="img-responsive img-centered" alt="">
             <div class="brand-name">Rachelle Austin</div>
