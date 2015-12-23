@@ -155,6 +155,7 @@
             <h2>Portfolio</h2>
             <hr class="colored">
             <p>A few of my recordings</p>
+            <br>
             <div class="row">
                 <div class="col-md-6"> 
                     <iframe width="420" height="315" src="https://www.youtube.com/embed/kMbv3bKxqgs" frameborder="0" allowfullscreen></iframe>
@@ -163,6 +164,7 @@
                     <iframe width="420" height="315" src="https://www.youtube.com/embed/fOB_Mo5c5ik" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
+            <br>
             <div class="row">
                 <div class="col-md-6"> 
                     <iframe width="420" height="315" src="https://www.youtube.com/embed/uK-ewJq16to" frameborder="0" allowfullscreen></iframe>
