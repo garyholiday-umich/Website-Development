@@ -6797,4 +6797,8 @@ button.close {
     display: none !important;
   }
 }
+@media (min-width: 992px)
+.col-md-3 {
+    width: 33% !important;
+}
 /*# sourceMappingURL=bootstrap.css.map */
