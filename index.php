@@ -124,26 +124,26 @@
             <div class="row text-center">
                 <div class="col-lg-12 wow fadeIn">
                     <h1>This is what I do</h1>
-                    <p>I provide web design, web development, photography, and graphic design services.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet elit.</p>
                     <hr class="colored">
                 </div>
             </div>
             <div class="row text-center content-row">
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".2s">
+                <div class="col-md-4 col-sm-6 wow fadeIn" data-wow-delay=".2s">
                     <div class="about-content">
                         <i class="fa fa-microphone fa-4x"></i>
                         <h3>Sing</h3>
                         <p>Curabitur dignissim, risus eget luctus blandit, turpis magna condimentum neque, sed volutpat ex ante in magna.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
+                <div class="col-md-4 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
                         <i class="fa fa-mortar-board fa-4x"></i>
                         <h3>Teach</h3>
                         <p>Curabitur dignissim, risus eget luctus blandit, turpis magna condimentum neque, sed volutpat ex ante in magna.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
+                <div class="col-md-4 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
                         <i class="fa fa-trophy fa-4x"></i>
                         <h3>Perform</h3>
