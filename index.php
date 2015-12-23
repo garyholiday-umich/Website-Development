@@ -112,6 +112,7 @@
                     <hr class="colored">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet dolor vitae nibh ultricies, eu ullamcorper mi porttitor. Praesent vel sem lorem. Cras vitae arcu ac mi imperdiet tempus non sit amet metus.</p>
                     <p>Duis egestas eros erat, id venenatis erat porta sit amet.</p>
+                    <button onclick="location.href='http://www.facebook.com'" class="btn btn-outline-dark">My Resume</button>
                 </div>
             </div>
         </div>
