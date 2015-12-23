@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Vitality</title>
+    <title>Rachelle Austin</title>
     <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css">
     <!-- Retina.js - Load first for faster HQ mobile images. -->
@@ -98,7 +98,7 @@
             <img src="assets/img/creative/music_profile3.png" class="img-responsive img-centered" alt="">
             <div class="brand-name">Rachelle Austin</div>
             <hr class="colored">
-            <div class="brand-name-subtext">An Online Portfolio For Creatives</div>
+            <div class="brand-name-subtext">Opera Singer</div>
         </div>
         <div class="scroll-down">
             <a class="btn page-scroll" href="#about"><i class="fa fa-angle-down fa-fw"></i></a>
@@ -111,10 +111,10 @@
                     <img src="assets/img/creative/about.png" class="img-responsive" alt="">
                 </div>
                 <div class="col-md-6 text-center">
-                    <h1>Hi, I'm John Smith</h1>
+                    <h1>Hi, I'm Rachelle</h1>
                     <hr class="colored">
-                    <p>I am a freelance web designer, developer, and photographer based in San Francisco, California. I have a professional background in graphic design, and a degree in Computer Science from the University of Central California.</p>
-                    <p>Whether your next project is an online store, website for your business, or a simple brochure, I'll be ready to help!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet dolor vitae nibh ultricies, eu ullamcorper mi porttitor. Praesent vel sem lorem. Cras vitae arcu ac mi imperdiet tempus non sit amet metus.</p>
+                    <p>Duis egestas eros erat, id venenatis erat porta sit amet.</p>
                 </div>
             </div>
         </div>
@@ -131,30 +131,23 @@
             <div class="row text-center content-row">
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".2s">
                     <div class="about-content">
-                        <i class="fa fa-laptop fa-4x"></i>
-                        <h3>Web Design</h3>
-                        <p>This theme includes the retina.js plugin for easy retina image support so your images and graphics will look great on mobile devices!</p>
+                        <i class="fa fa-microphone fa-4x"></i>
+                        <h3>Sing</h3>
+                        <p>Curabitur dignissim, risus eget luctus blandit, turpis magna condimentum neque, sed volutpat ex ante in magna.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
-                        <i class="fa fa-code fa-4x"></i>
-                        <h3>Web Development</h3>
-                        <p>Vitality is built using Bootstrap 3, and is easy to edit and customize. LESS files are included as well for deeper customization.</p>
+                        <i class="fa fa-mortar-board fa-4x"></i>
+                        <h3>Teach</h3>
+                        <p>Curabitur dignissim, risus eget luctus blandit, turpis magna condimentum neque, sed volutpat ex ante in magna.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
-                        <i class="fa fa-camera-retro fa-4x"></i>
-                        <h3>Photography</h3>
-                        <p>When building this theme, we've paid close attention to how it looks on various screen sizes. Try it out on a phone or tablet!</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
-                    <div class="about-content">
-                        <i class="fa fa-paint-brush fa-4x"></i>
-                        <h3>Graphic Design</h3>
-                        <p>All of our themes are crafted with care, and we strive to make your experience as one of our customers the best as possible.</p>
+                        <i class="fa fa-trophy fa-4x"></i>
+                        <h3>Perform</h3>
+                        <p>Curabitur dignissim, risus eget luctus blandit, turpis magna condimentum neque, sed volutpat ex ante in magna.</p>
                     </div>
                 </div>
             </div>
